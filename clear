@@ -1,0 +1,17 @@
+[33mcommit 03b4481a9586a04fbd165bc64472c2eb35dc5847[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m)[m
+Author: Kendawi96 <elmoizkendawi83@gmail.com>
+Date:   Sat Nov 9 12:47:56 2024 +0200
+
+    Edit README.md and hello_world.txt
+
+[33mcommit cb36814d9d032dee1ea673f21a8b09c45f305d13[m
+Author: Kendawi96 <elmoizkendawi83@gmail.com>
+Date:   Sat Nov 9 12:17:11 2024 +0200
+
+    Add hello_world.txt
+
+[33mcommit a0c6fd31ecce878e4dbd5d9dcef759070c291828[m[33m ([m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: Kendawi96 <elmoizkendawi83@gmail.com>
+Date:   Sat Nov 9 11:30:31 2024 +0200
+
+    Initial commit
